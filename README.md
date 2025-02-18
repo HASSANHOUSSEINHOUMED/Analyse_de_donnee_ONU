@@ -7,6 +7,7 @@ L'étude portait sur l'identification des similarités entre pays de l'ONU selon
 - Taux d'activité féminine
 - Données démographiques (population, fertilité)
 - Taux d'urbanisation
+
 Le projet comprend :
 - Analyse exploratoire des données
 - Méthodes de classification pour regrouper les pays similaires
